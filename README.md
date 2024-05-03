@@ -1,6 +1,6 @@
 ![tumbnail](imgs/tumb.jpg)
 
-This is a couple of scripts along with a guide on how to import Aion .geo files into the blender, create navmeshes and export them in .nav format compatible with [ARP](https://github.com/Yoress/ARP/tree/master) and [navmesh branch of community 5.8 emu](https://github.com/MATTYOneInc/AionEncomBase/tree/Navmesh-Pathfinding).
+This is a couple of scripts along with a guide on how to import Aion .geo files into the blender, create navmeshes and export them in .nav format compatible with [ARP](https://github.com/Yoress/ARP/tree/master) and [Aion 5.8 Community Project](https://github.com/MATTYOneInc/AionEncomBase).
 
 Few things to note:
 
